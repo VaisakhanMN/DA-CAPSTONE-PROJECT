@@ -48,3 +48,7 @@ Based on the EDA, the following quality control and maintenance protocols are re
 1. Clone this repository to your local machine:
    ```bash
    git clone [https://github.com/VaisakhanMN/DA-CAPSTONE-PROJECT/tree/main]
+
+## 👨‍💻 Author
+
+**Vaisakhan M.N.** *Data Analyst*
